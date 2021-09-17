@@ -1,4 +1,4 @@
-<img align="right" width="30%" src="https://media.giphy.com/media/bUVSTqteX1eIbhhZOO/giphy.gif?cid=ecf05e4720t50mvhmwj0re36xnqhe8ot3jktkpug67canf72&rid=giphy.gif&ct=g">
+<img align="right" width="100%" src="https://media.giphy.com/media/bUVSTqteX1eIbhhZOO/giphy.gif?cid=ecf05e4720t50mvhmwj0re36xnqhe8ot3jktkpug67canf72&rid=giphy.gif&ct=g">
 
 ### Learning stuff
 
