@@ -1,4 +1,4 @@
-<img align="right" width="50%" src="https://tenor.com/view/vegeta-broly-gif-19878194">
+<img align="right" width="50%" src="https://c.tenor.com/CV_zSzNM3CsAAAAd/vegeta-broly.gif">
 
 ### Learning stuff
 
