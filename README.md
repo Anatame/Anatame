@@ -7,7 +7,7 @@ I do fullstack Web and Mobile dev.
 ### Skills - 
 `Database`: PostgreSQL, MongoDB, Firebase
 
-`Web` React, Express/Fastify, Node.js, Javascript, html, sass
+`Web` React, Express/Fastify, Node.js, Javascript, HTML, CSS/SASS
 
 `Mobile` : React-Native, Android Native (Kotlin/Java, XML/JetPack Compose)
 
