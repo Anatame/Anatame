@@ -1,6 +1,16 @@
 <img align="right" width="50%" src="https://64.media.tumblr.com/a765adbd262b8e5c4ef096d572e1b32e/b72e45f6da1e86e2-1a/s500x750/696c73b7160d432cd8559d7c2bef2cb649f1a6e4.gifv">
 
 ### Learning stuff
+Hey there, 
+I do fullstack web and mobile dev. 
+
+### Skills - 
+`Database`: PostgreSQL, MongoDB, Firebase
+`Web` React, NodeJs, Javascript, html, sass
+`Mobile` : React-Native, Android Native (Kotlin/Java, XML/JetPack Compose)
+
+
+Currenlty learning and building Web and Mobile projects.
 
 <!--
 **Anatame/Anatame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
