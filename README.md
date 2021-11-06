@@ -2,11 +2,13 @@
 
 ### Learning stuff
 Hey there, 
-I do fullstack web and mobile dev. 
+I do fullstack Web and Mobile dev. 
 
 ### Skills - 
 `Database`: PostgreSQL, MongoDB, Firebase
+
 `Web` React, NodeJs, Javascript, html, sass
+
 `Mobile` : React-Native, Android Native (Kotlin/Java, XML/JetPack Compose)
 
 
