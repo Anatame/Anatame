@@ -13,7 +13,7 @@ I do fullstack Web and Mobile dev.
 
 
 
-# Currenlty learning and building Web and Mobile projects.
+# Currently learning and building Web and Mobile projects.
 
 <!--
 **Anatame/Anatame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
