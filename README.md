@@ -11,7 +11,7 @@ I do fullstack Web and Mobile dev.
 
 `Mobile`: React-Native, Android Native (Kotlin/Java, XML/JetPack Compose)
 
-`Languages` : C++, Java, Kotlin, Javascript, Python
+`Languages`: C++, Java, Kotlin, Javascript, Python
 
 
 # Currently learning and building Web and Mobile projects.
