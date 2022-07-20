@@ -1,4 +1,6 @@
-<img align="right" width="50%" src="https://64.media.tumblr.com/a765adbd262b8e5c4ef096d572e1b32e/b72e45f6da1e86e2-1a/s500x750/696c73b7160d432cd8559d7c2bef2cb649f1a6e4.gifv">
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/77446233/180055999-15f642f5-a088-40df-b3be-961fd8d518c5.gif">
+
+
 
 ### Learning and making stuff...
 Hey there, 
